@@ -6,7 +6,7 @@ This is a Flask based app to store and retrieve Cell line toxicity data. Built f
 Files and functions
  
 R  
-[chemical_info.R](#chemical_info-R)  
+[chemical_info.R](#chemical_info.R)  
 [fitdr.R](#fitdr-R)  
 [xls_properties.R](#xls_properties.R)  
 
