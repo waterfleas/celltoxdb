@@ -8,7 +8,7 @@ Files and functions
 .
 - Procfile
 -   R
-    - [chemical_info.R](##chemical_info.R)
+    - [chemical_info.R](###-chemical_info.R)
     - [fitdr.R](#fitdr.R)
     - [xls_properties.R](#-xls_properties.R)
 - README.md
