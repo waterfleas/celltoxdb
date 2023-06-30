@@ -10,7 +10,7 @@ R
 [fitdr.R](#fitdr-R)  
 [xls_properties.R](#xls_properties.R)  
 
-[BLAH](#blah)
+[BLAH](#blah.blah)
 - README.md
 -   app
     - assets
@@ -71,7 +71,7 @@ R
 - utils.py
 
 
-## Blah
+## Blah.Blah
 ## R
 ### chemical_info.R
 reads data from an Excel file, performs data manipulation and transformation operations on the selected columns, modifies column names, and writes the resulting data frame to a JSON file.
