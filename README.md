@@ -73,7 +73,7 @@ R
 
 ## Blah
 ## R
-### chemical_info-R
+### chemical_info.R
 reads data from an Excel file, performs data manipulation and transformation operations on the selected columns, modifies column names, and writes the resulting data frame to a JSON file.
 
 ### fitdr.R
