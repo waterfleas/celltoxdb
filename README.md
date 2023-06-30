@@ -3,12 +3,12 @@ Cell line toxicity database
 
 This is a Flask based app to store and retrieve Cell line toxicity data. Built for the Schirmer Lab at EAWAG.
 
-
+[BLAH](#blah)
 Files and functions
 .
 - Procfile
 -   R
-    - [chemical_info.R](#-chemical_info.R)
+    - [chemical_info.R](#chemical_info.R)
     - [fitdr.R](#fitdr.R)
     - [xls_properties.R](#-xls_properties.R)
 - README.md
@@ -71,6 +71,7 @@ Files and functions
 - utils.py
 
 
+# Blah
 ## R
 ### chemical_info.R
 reads data from an Excel file, performs data manipulation and transformation operations on the selected columns, modifies column names, and writes the resulting data frame to a JSON file.
