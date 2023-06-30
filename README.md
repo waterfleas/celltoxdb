@@ -8,13 +8,13 @@ Files and functions
 .
 - Procfile
 -   R
-    - [chemical_info.R](#chemical_info.R)
+    - [chemical_info.R](#-chemical_info.R)
     - [fitdr.R](#fitdr.R)
-    - [xls_properties.R](#xls_properties.R)
+    - [xls_properties.R](#-xls_properties.R)
 - README.md
 -   app
     - assets
-        - [dash_v01.css](#assets/dash_v01.css)
+        - [dash_v01.css](#-assets/dash_v01.css)
     - models.py
     - plotlydash
         - assets
