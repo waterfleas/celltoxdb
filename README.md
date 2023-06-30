@@ -6,22 +6,21 @@ This is a Flask based app to store and retrieve Cell line toxicity data. Built f
 
 Files and functions
 .
-├── Procfile
-├── R
-│   ├── [chemical_info.R](#chemical_info.R)
-│   ├── [fitdr.R](#fitdr.R)
-│   └── [xls_properties.R](#xls_properties.R)
-├── README.md
-├── app
-│   ├── __init__.py
-│   ├── assets
+-   Procfile
+-   R
+    - [chemical_info.R](#chemical_info.R)
+    - [fitdr.R](#fitdr.R)
+    - [xls_properties.R](#xls_properties.R)
+-   README.md
+-   app
+    - assets
 │   │   └── [dash_v01.css](#assets/dash_v01.css)
-│   ├── models.py
-│   ├── plotlydash
-│   │   ├── assets
-│   │   │   └── dash_v1.css
-│   │   ├── dashboard.py
-│   │   └── layout.py
+    - models.py
+        - plotlydash
+            - assets
+            - dash_v1.css
+dashboard.py
+layout.py
 │   ├── static
 │   │   ├── css
 │   │   │   ├── dropdown.css
